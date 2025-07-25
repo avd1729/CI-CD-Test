@@ -1,4 +1,4 @@
-# ci-cd-test
+# Argon-CI-Test
 
 This repository serves as a **minimal testbed** for the custom CI/CD runner **Argon**. It is designed to simulate real-world build steps and help validate the full pipeline from webhook trigger to job execution and notification.
 
